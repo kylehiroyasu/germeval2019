@@ -1,0 +1,27 @@
+subtask_a
+9783641136291	Literatur & Unterhaltung
+9783641185787	Literatur & Unterhaltung
+9783328103646	Ratgeber
+9783453357792	Literatur & Unterhaltung
+9783844504958	Literatur & Unterhaltung
+9783791382746	Künste
+9783421046024	Sachbuch
+9783442392421	Ratgeber
+9783641059569	Sachbuch
+9783813508000	Sachbuch
+subtask_b
+9783641136291	Literatur & Unterhaltung	Romane & Erzählungen
+9783641185787	Literatur & Unterhaltung	Fantasy	Heroische Fantasy
+9783328103646	Lebenshilfe & Psychologie	Ratgeber	Besser leben
+9783453357792	Literatur & Unterhaltung
+9783844504958	Literatur & Unterhaltung	Romane & Erzählungen
+9783791382746	Künste	Fotografie
+9783421046024	Sachbuch	Glaube und Grenzerfahrungen
+9783442392421	Ratgeber	Essen & Trinken	Starköche
+9783453810105	Literatur & Unterhaltung
+9783837117486	Literatur & Unterhaltung	Romane & Erzählungen
+9783442478545	Literatur & Unterhaltung	Krimi & Thriller	Gerichtsmedizin / Pathologie
+9783453314313	Literatur & Unterhaltung	Fantasy	Abenteuer-Fantasy	Heroische Fantasy
+9783641059569	Sachbuch	Politik & Gesellschaft	Gesellschaftskritik
+9783813508000	Sachbuch	Politik & Gesellschaft	Weltpolitik & Globalisierung
+9783442742783	Literatur & Unterhaltung	Krimi & Thriller	Nordische Krimis
